@@ -64,3 +64,36 @@ h3{
     margin-left: 20px;
     margin-bottom: 2px;
 }
+
+
+#input{
+    background-color: #ED3192;
+    width:300px;
+    padding: 20px;
+    margin:10px;
+    border-radius: 30px;
+    color: white;
+    box-shadow: 5px 5px 10px #990099;
+
+}
+.form{
+    border-radius: 10px;
+}
+label{
+    margin-left:5px;
+}
+.login-tex{
+    margin-left: 20px;
+}
+#button{
+    margin-top: 10px;
+}
+
+#button{
+    border-radius: 5px;
+    margin-left: 3px;
+    background-color: #E8E8FD;
+}
+#anchor-button{
+    margin:300px;
+}
